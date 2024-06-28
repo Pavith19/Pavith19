@@ -11,6 +11,8 @@
 
 - 🌱 I'm currently learning **Kotlin, C++, React**
 
+- 💬 Ask me about Java
+
 - 📫 How to reach me **pavithd2020@gmail.com**
 
 </td>
