@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🎓 I'm currently a Computer Science undergraduate at IIT, affiliated with the University of Westminster
+- 🎓 I’m currently a Computer Science undergraduate at IIT
 
 - 🌱 I'm currently learning **Kotlin, C++, React**
 
