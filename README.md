@@ -11,9 +11,9 @@
 
 - 🌱 I'm currently learning **Kotlin, C++, React**
 
-- 💬 Ask me about Anything!, I'm happy to help ✌️
+- 💬 Ask me about Anything! I'm happy to help ✌️
 
-- 📫 How to reach me **pavithd2020@gmail.com**
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
 </td>
 <td width="50%" align="center">
