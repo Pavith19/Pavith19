@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning **Kotlin, C++, React**
 
-- 💬 Ask me about Java
+- 💬 Ask me about Anything!, I'm happy to help ✌️
 
 - 📫 How to reach me **pavithd2020@gmail.com**
 
