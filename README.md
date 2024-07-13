@@ -9,7 +9,7 @@
   
 - 🎓 Computer Science undergraduate at IIT
 
-- 🌱 I'm currently learning **Kotlin, C++, React**
+- 🌱 I'm currently learning **Kotlin**
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
 
