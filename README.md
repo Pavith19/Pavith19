@@ -1,3 +1,8 @@
+<!--
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-->
+
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4200&pause=1800&lines=Hi+There!+👋;+I'm+Pavith+Bambaravanage!;" />
