@@ -20,7 +20,7 @@
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
 
-- ⚡ Fun Fact: Many of my GitHub repos are private🗝️💻
+- ⚡ Fun Fact: Many of my GitHub repos are private🗝️
 
 </td>
 <td width="50%" align="center">
