@@ -107,3 +107,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4000&pause=1800&lines=Thanks+for+visiting!;You're+welcome!;" />
 </div>  
 
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&text=Thank%You%!&fontSize=40&animation=twinkling&color=timeGradient&height=80&section=footer&reversal=true)
