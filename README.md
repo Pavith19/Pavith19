@@ -107,6 +107,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4000&pause=1800&lines=Thanks+for+visiting!;You're+welcome!;" />
 </div>  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&text=Thank%20You%21&fontSize=40&animation=twinkling&color=from:lightblue, to:darkblue&height=80&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&text=Thank%You%!&fontSize=40&animation=twinkling&color=timeGradient&height=80&section=footer&reversal=true)
 
 
