@@ -103,8 +103,6 @@
 ------
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&color=%2300BFFF&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
-
-</div>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4200&pause=1800&lines=Thanks+for+visiting!;You're+welcome!;" />
+</div>  
 
