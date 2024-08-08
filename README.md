@@ -68,6 +68,7 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
+<br>
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>&nbsp;&nbsp;
