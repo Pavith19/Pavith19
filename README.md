@@ -8,7 +8,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4200&pause=1800&lines=Hi+There!+👋;+I'm+Pavith+Bambaravanage!;" />
 </h1>        
 <h3 align="center">A Passionate Full-stack Developer from DownSouth Sri Lanka</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pavith19&label=Profile%20views&color=0e75b6&style=flat" alt="pavith19" /> </p>
+<p align="center">
+    [![Stars](https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41)](https://github.com/Pavith19)
+ <img src="https://komarev.com/ghpvc/?username=pavith19&label=Profile%20views&color=0e75b6&style=flat" alt="pavith19" /> </p>
 
 <table align="center">
 <tr border="none">
