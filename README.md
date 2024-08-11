@@ -9,8 +9,7 @@
 </h1>        
 <h3 align="center">A Passionate Full-stack Developer from DownSouth Sri Lanka</h3>
 <p align="center">
-    
- <img src="https://komarev.com/ghpvc/?username=pavith19&label=Profile%20views&color=0e75b6&style=flat" alt="pavith19" /> </p>
+    <img src="https://komarev.com/ghpvc/?username=pavith19&label=Profile%20views&color=0e75b6&style=flat" alt="pavith19" /> </p>
 
 <table align="center">
 <tr border="none">
