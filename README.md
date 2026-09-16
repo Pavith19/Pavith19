@@ -19,7 +19,7 @@
   
 - 🎓 Computer Science undergraduate at IIT
 
-- 🌱 I'm currently learning **PHP**
+- 🌱 I'm currently learning **ABAP**
 
 - 💬 Ask me about Anything! I'm happy to help ✌️
 
